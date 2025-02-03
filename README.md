@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [WaveCast on GitHub]()
-- Live Site URL: [WaveCast on VERCEL]()
+- Solution URL: [WaveCast on GitHub](https://github.com/M4R0C4/wave-cast-alura)
+- Live Site URL: [WaveCast on VERCEL](https://wave-cast-alura-six.vercel.app/)
 
 ## My process
 Starting with the general division of the page, I applied grid to index.css. Using grid-tamplate-area to divide each field on the page.
